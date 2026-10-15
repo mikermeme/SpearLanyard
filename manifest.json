@@ -1,0 +1,8 @@
+{
+  "name": "SpearLanyard",
+  "version_number": "0.1.1",
+  "author": "Miker",
+  "description": "Client-side: thrown spears stay reserved for you, so only you can pick them up until they are far away or enough time has passed.",
+  "website_url": "",
+  "dependencies": [ "denikson-BepInExPack_Valheim-5.4.2202" ]
+}

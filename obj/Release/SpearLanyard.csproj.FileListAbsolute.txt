@@ -1,0 +1,2 @@
+D:\Claude\Valheim\SpearLanyard\obj\Release\SpearLanyard.csproj.AssemblyReference.cache
+D:\Claude\Valheim\SpearLanyard\obj\Release\SpearLanyard.csproj.CoreCompileInputs.cache
